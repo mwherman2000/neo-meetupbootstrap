@@ -1,2 +1,2 @@
 # neo-meetupbootstrap
-NEO Blockchain XXXX Meetup/Facebook/Twitter Bootstrap Files
+NEO Blockchain Toronto Meetup/Facebook/Twitter Bootstrap Files
